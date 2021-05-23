@@ -1,4 +1,4 @@
-package pl.gda.wsb;
+package com.company;
 
 public class Phone {
 
