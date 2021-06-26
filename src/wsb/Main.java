@@ -1,4 +1,4 @@
-package com.company;
+package wsb;
 
 import com.company.creatures.Animal;
 import com.company.creatures.Human;

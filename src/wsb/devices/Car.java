@@ -1,6 +1,6 @@
 package com.company.devices;
 
-import com.company.CarBrands;
+import wsb.CarBrands;
 
 public class Car extends Device{
     private final CarBrands brand;

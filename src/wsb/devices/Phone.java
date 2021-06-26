@@ -1,4 +1,4 @@
-package com.company.devices;
+package wsb.devices;
 
 public class Phone extends Device {
 
